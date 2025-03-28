@@ -1,5 +1,5 @@
 learning how to use
   -Github
-  -cuda
+  -Cuda
   -Pytorch
-  -Transforers
+  -Transformers
